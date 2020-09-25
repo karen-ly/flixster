@@ -43,4 +43,4 @@ Describe any challenges encountered while building the app.
 <img src="http://g.recordit.co/Rad3JHQHw2.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+Some challenges I faced when creating this app was dealing with CocoaPods and finding features around Xcode due to new updates.
